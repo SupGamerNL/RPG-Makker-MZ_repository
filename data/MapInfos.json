@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAIN","order":1,"parentId":0,"scrollX":720.8888888888889,"scrollY":428},
-{"id":2,"expanded":true,"name":"? Town","order":2,"parentId":1,"scrollX":855.1111111111111,"scrollY":1020,"quick":false},
+{"id":2,"expanded":true,"name":"? Town","order":2,"parentId":1,"scrollX":792,"scrollY":693.7777777777778,"quick":false},
 {"id":3,"expanded":false,"name":"? Town - Blacksmith","order":3,"parentId":2,"scrollX":720.8888888888889,"scrollY":624.4444444444445,"quick":false},
 {"id":4,"expanded":false,"name":"? Town - Accessory","order":4,"parentId":2,"scrollX":720.8888888888889,"scrollY":622.6666666666666,"quick":false}
 ]
