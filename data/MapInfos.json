@@ -17,6 +17,6 @@ null,
 {"id":15,"expanded":true,"name":"AREAS","order":15,"parentId":1,"scrollX":0,"scrollY":0,"quick":false},
 {"id":16,"expanded":true,"name":"WOODS/FORESTS","order":16,"parentId":15,"scrollX":973.1999999999999,"scrollY":544.1999999999999,"quick":false},
 {"id":17,"expanded":true,"name":"Draevenwood","order":17,"parentId":16,"scrollX":973.1999999999999,"scrollY":553.8,"quick":false},
-{"id":18,"expanded":false,"name":"Draevenwood: Hollowshade Pass","order":18,"parentId":17,"scrollX":1769.4545454545455,"scrollY":1268.7272727272727,"quick":false},
-{"id":19,"expanded":false,"name":"Draevenholt Town: Interiors","order":13,"parentId":2,"scrollX":0,"scrollY":0,"quick":false}
+{"id":18,"expanded":false,"name":"Draevenwood: Hollowshade Pass","order":18,"parentId":17,"scrollX":1769.4545454545455,"scrollY":1006.909090909091,"quick":false},
+{"id":19,"expanded":false,"name":"Draevenholt Town: Interiors","order":13,"parentId":2,"scrollX":1216.5,"scrollY":987.75,"quick":false}
 ]
